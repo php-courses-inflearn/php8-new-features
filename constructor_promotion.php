@@ -2,7 +2,7 @@
 
 trait Printable
 {
-    public function __toString () 
+    public function __toString()
     {
         return $this->message;
     }
@@ -18,7 +18,7 @@ class A
 
     public string $message;
 
-    public function __construct (string $message)
+    public function __construct(string $message)
     {
         $this->message = $message;
     }
@@ -32,7 +32,7 @@ class B
 {
     use Printable;
 
-    public function __construct (public string $message)
+    public function __construct(public string $message)
     {
     }
 }
@@ -49,7 +49,7 @@ class C
 
     // public string $message; // -> ERROR
 
-    public function __construct (string $to, public string $message = 'Hello, world')
+    public function __construct(string $to, public string $message = 'Hello, world')
     {
     }
 }

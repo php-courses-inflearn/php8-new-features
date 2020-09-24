@@ -3,7 +3,7 @@
 /**
  * Static return type
  */
-class A 
+class A
 {
     public function getClass(): self
     {

@@ -3,7 +3,7 @@
 /**
  * Mixed Type
  */
-function foo (mixed $bar): mixed {
+function foo(mixed $bar): mixed {
     return $bar;
 }
 

@@ -5,7 +5,7 @@
  */
 class MyClass
 {
-    public function foo ()
+    public function foo()
     {
         var_dump('Hello, world');
     }
