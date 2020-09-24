@@ -57,8 +57,4 @@ sendMessage('pronist@naver.com', null);
 /**
  * false
  */
-function foo2(): string|false {
-    return false;
-}
-
-var_dump(foo2());
+function a(): int|false {}
