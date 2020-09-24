@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Throw
+ * Throw Expression
  */
 $fn = fn () => throw new Exception();
 

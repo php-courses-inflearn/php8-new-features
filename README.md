@@ -1,4 +1,4 @@
-# PHP 8
+# php8-feature-examples
 
 This Repo contains PHP 8 feature examples with **PHP 8.0.0 Beta 4**. Reference PHP 8 section of [RFC(Request for Comments)](https://wiki.php.net/rfc).
 
