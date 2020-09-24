@@ -1,7 +1,6 @@
 # PHP 8
 
-This Repo contains PHP 8 feature examples. \
-Ref. [REC(Request for Comments)](https://wiki.php.net/rfc) PHP 8 Section.
+This Repo contains PHP 8 feature examples with **PHP 8.0.0 Beta 4**. Reference PHP 8 section of [RFC(Request for Comments)](https://wiki.php.net/rfc).
 
 ## License
 
