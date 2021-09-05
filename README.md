@@ -6,7 +6,7 @@
 
 ## 커리큘럼
 
-1. [PHP 8](https://github.com/php-courses-inflearn/php8-new-features/tree/master/ch1)
+1. [PHP 8 의 새로운 기능을 소개합니다](https://github.com/php-courses-inflearn/php8-new-features/tree/master/ch1)
 
 ## 저작권
 
